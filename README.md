@@ -8,8 +8,9 @@
 
 ## Servus, ich bin Deandl 👋
 
-Tagsüber Software-Entwicklerin, abends... auch. Aber dann an meinen
-eigenen Sachen. Und wenn ich nicht gerade entwickle, zocke ich. ☕🎮
+Ich bin ein bayrisches Deandl und entwickle tagsüber Software -
+abends... auch. Aber dann an meinen eigenen Sachen. Und wenn ich
+nicht gerade entwickle, zocke ich. ☕🎮
 
 Angefangen hat alles mit einem Hobby: Ich hab am DayZ-Server
 rumgeschraubt, ein paar Scripts gebastelt und dabei gedacht "wie
@@ -46,8 +47,9 @@ ein Feierabend-Projekt, an dem ich auch selbst noch dazulerne. 🙂
 
 ## 👋 Hi, I'm Deandl
 
-Software developer by day, and... also by night. But then on my own
-stuff. And when I'm not coding, I'm gaming. ☕🎮
+I'm a girl from Bavaria - "Deandl" is a Bavarian term of endearment
+for "girl". Software developer by day, and... also by night. But then
+on my own stuff. And when I'm not coding, I'm gaming. ☕🎮
 
 It all started as a hobby: I was tinkering with a DayZ server, threw
 together a few scripts, and thought "how hard can this be?" A few
@@ -77,7 +79,7 @@ after-work project that I'm still learning from myself. 🙂
 - **Automation** – if I do something twice, the third time a script does it
 - **Honest** – if something runs at hobby pace, I'll say so
 
-<sub>`DE` Deutsche Version oben ↑</sub>
+<sub>`DE` Deutsche Version oben ↑ · The English version was translated with AI (Claude / DeepL).</sub>
 
 ---
 
