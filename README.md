@@ -39,7 +39,6 @@ ein Feierabend-Projekt, an dem ich auch selbst noch dazulerne. 🙂
 - **Datenschutz** – so wenig Daten wie möglich, so anonym wie es geht
 - **Schlank & nachvollziehbar** – kein aufgeblähter Code
 - **Automatisierung** – wenn ich was zweimal mache, soll's beim dritten Mal ein Script tun
-- **Ehrlich** – wenn was Hobby-Tempo hat, sag ich das auch
 
 <sub>`EN` English version below ↓</sub>
 
@@ -77,7 +76,6 @@ after-work project that I'm still learning from myself. 🙂
 - **Privacy** – as little data as possible, as anonymous as it gets
 - **Lean & readable** – no bloated code
 - **Automation** – if I do something twice, the third time a script does it
-- **Honest** – if something runs at hobby pace, I'll say so
 
 <sub>`DE` Deutsche Version oben ↑ · The English version was translated with AI (Claude / DeepL).</sub>
 
