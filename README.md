@@ -1,3 +1,11 @@
+<div align="center">
+
+**[🇩🇪 Deutsch](#-servus-ich-bin-deandl) · [🇬🇧 English](#-hi-im-deandl)**
+
+</div>
+
+---
+
 ## Servus, ich bin Deandl 👋
 
 Tagsüber Software-Entwicklerin, abends... auch. Aber dann an meinen
@@ -25,22 +33,71 @@ Dinge die mir (und hoffentlich auch wem anders) das Leben leichter
 machen. Alles entspannt nebenbei - ich geb mein Bestes, aber es bleibt
 ein Feierabend-Projekt, an dem ich auch selbst noch dazulerne. 🙂
 
-### Was du hier findest
-
-- 🛠️ **[Kofi-Discord-Bridge](https://github.com/DeandlDernai/Kofi-Discord-Bridge)**
-  – leitet Ko-fi-Webhooks anonym nach Discord weiter
-- 🎮 Tools rund um Gameserver-Verwaltung
-- ... und was sonst noch so kommt
-
-### Worauf ich Wert lege
+**Worauf ich Wert lege:**
 
 - **Datenschutz** – so wenig Daten wie möglich, so anonym wie es geht
 - **Schlank & nachvollziehbar** – kein aufgeblähter Code
 - **Automatisierung** – wenn ich was zweimal mache, soll's beim dritten Mal ein Script tun
 - **Ehrlich** – wenn was Hobby-Tempo hat, sag ich das auch
 
+<sub>🇬🇧 English version below ↓</sub>
+
 ---
 
-Wenn dir was davon gefällt oder geholfen hat, freu ich mich über
-einen Kaffee: **[ko-fi.com/deandlresthirn](https://ko-fi.com/deandlresthirn)** ☕
-*(freiwillig, ohne Gegenleistung – einfach ein Danke)*
+## 👋 Hi, I'm Deandl
+
+Software developer by day, and... also by night. But then on my own
+stuff. And when I'm not coding, I'm gaming. ☕🎮
+
+It all started as a hobby: I was tinkering with a DayZ server, threw
+together a few scripts, and thought "how hard can this be?" A few
+years later, the hobby had turned into a career - and the tinkering
+in my free time stuck around anyway.
+
+In my job I'm a Java full-stack developer, by now with an Ops focus
+in my team. What I do professionally and what I build here in my free
+time feed into each other: this is where I try things out, learn, and
+take it back to work - and the other way around. I love automating
+things, and yes - sometimes AI gives me a nudge in the right
+direction. 🤖
+
+Most of my tools come from exactly the reason I started in the first
+place: I enjoy playing games, I run game servers, and at some point a
+tool is just missing - so I build it.
+
+This is where the results end up. Small tools, little helpers, things
+that make life easier for me (and hopefully someone else too). All
+nice and relaxed on the side - I do my best, but it stays an
+after-work project that I'm still learning from myself. 🙂
+
+**What matters to me:**
+
+- **Privacy** – as little data as possible, as anonymous as it gets
+- **Lean & readable** – no bloated code
+- **Automation** – if I do something twice, the third time a script does it
+- **Honest** – if something runs at hobby pace, I'll say so
+
+<sub>🇩🇪 Deutsche Version oben ↑</sub>
+
+---
+
+## 🛠️ Projects
+
+- **[Kofi-Discord-Bridge](https://github.com/DeandlDernai/Kofi-Discord-Bridge)**
+  – forwards Ko-fi webhooks to Discord, anonymously
+- 🎮 Tools for game server management
+- ... and whatever else comes along
+
+---
+
+<div align="center">
+
+Wenn dir was davon gefällt oder geholfen hat, freu ich mich über einen Kaffee. ☕
+<br>
+If you like any of this or it helped you out, I'd be happy about a coffee. ☕
+
+**[☕ ko-fi.com/deandlresthirn](https://ko-fi.com/deandlresthirn)**
+
+<sub>freiwillig, ohne Gegenleistung · voluntary, no strings attached</sub>
+
+</div>
