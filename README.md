@@ -1,6 +1,6 @@
 <div align="center">
 
-**[🇩🇪 Deutsch](#-servus-ich-bin-deandl) · [🇬🇧 English](#-hi-im-deandl)**
+`DE` [Deutsch](#-servus-ich-bin-deandl) · `EN` [English](#-hi-im-deandl) · `🛠` [Projects](#️-projects)
 
 </div>
 
@@ -40,7 +40,7 @@ ein Feierabend-Projekt, an dem ich auch selbst noch dazulerne. 🙂
 - **Automatisierung** – wenn ich was zweimal mache, soll's beim dritten Mal ein Script tun
 - **Ehrlich** – wenn was Hobby-Tempo hat, sag ich das auch
 
-<sub>🇬🇧 English version below ↓</sub>
+<sub>`EN` English version below ↓</sub>
 
 ---
 
@@ -77,11 +77,11 @@ after-work project that I'm still learning from myself. 🙂
 - **Automation** – if I do something twice, the third time a script does it
 - **Honest** – if something runs at hobby pace, I'll say so
 
-<sub>🇩🇪 Deutsche Version oben ↑</sub>
+<sub>`DE` Deutsche Version oben ↑</sub>
 
 ---
 
-## 🛠️ Projects
+## 🛠 Projects
 
 - **[Kofi-Discord-Bridge](https://github.com/DeandlDernai/Kofi-Discord-Bridge)**
   – forwards Ko-fi webhooks to Discord, anonymously
