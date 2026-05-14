@@ -1,6 +1,6 @@
 <div align="center">
 
-`DE` [Deutsch](#-servus-ich-bin-deandl) · `EN` [English](#-hi-im-deandl) · `🛠` [Projects](#️-projects)
+`DE` [Deutsch](#-servus-ich-bin-deandl) · `EN` [English](#-hi-im-deandl) · [🛠 Projects](#projects)
 
 </div>
 
@@ -83,7 +83,7 @@ after-work project that I'm still learning from myself. 🙂
 
 ---
 
-## 🛠 Projects
+## Projects
 
 - **[Kofi-Discord-Bridge](https://github.com/DeandlDernai/Kofi-Discord-Bridge)**
   – forwards Ko-fi webhooks to Discord, anonymously
