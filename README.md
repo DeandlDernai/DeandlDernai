@@ -37,7 +37,7 @@ ein Feierabend-Projekt, an dem ich auch selbst noch dazulerne. 🙂
 **Worauf ich Wert lege:**
 
 - **Datenschutz** – so wenig Daten wie möglich, so anonym wie es geht
-- **Schlank & nachvollziehbar** – kein aufgeblähter Code
+- **Schlank & nachvollziehbar**
 - **Automatisierung** – wenn ich was zweimal mache, soll's beim dritten Mal ein Script tun
 
 <sub>`EN` English version below ↓</sub>
@@ -74,7 +74,7 @@ after-work project that I'm still learning from myself. 🙂
 **What matters to me:**
 
 - **Privacy** – as little data as possible, as anonymous as it gets
-- **Lean & readable** – no bloated code
+- **Lean & readable**
 - **Automation** – if I do something twice, the third time a script does it
 
 <sub>`DE` Deutsche Version oben ↑ · The English version was translated with AI (Claude / DeepL).</sub>
