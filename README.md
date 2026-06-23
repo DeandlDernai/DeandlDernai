@@ -83,9 +83,13 @@ after-work project that I'm still learning from myself. 🙂
 
 ## Projects
 
+- **[RHD-RCON](https://github.com/DeandlDernai/RHD-RCON)**
+  – BattlEye RCon tool for DayZ Epoch (and other BattlEye games coming).
+  Multi-server player management, scheduled restarts, country/name auto-kick,
+  global whitelist, IP ban, player database.
 - **[Kofi-Discord-Bridge](https://github.com/DeandlDernai/Kofi-Discord-Bridge)**
   – forwards Ko-fi webhooks to Discord, anonymously
-- 🎮 Tools for game server management
+- 🎮 More tools for game server management coming
 - ... and whatever else comes along
 
 ---
